@@ -288,7 +288,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "ntp",
-            url: "https://i.ibb.co/RkMvjjCm/b0f3b4b5-a565-441b-b1de-6930ebd5d00a.jpg",
+            url: "https://i.ibb.co/bjrfVL9V/N-n.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
