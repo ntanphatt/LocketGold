@@ -288,7 +288,7 @@ if (ua.includes("Locket")) {
         widget_sync_token_reload_mode: "clearTokenNever",
         widget_frame_event: JSON.stringify({
             uid: "ntp",
-            url: "https://i.ibb.co/S4MChGyq/nendoraemon.jpg",
+            url: "https://raw.githubusercontent.com/ntanphatt/LocketGold/main/IMG_9643.png",
             use_local_time_zone: true,
             placement: "below",
             start_at: "2020-01-01T00:00:00",
