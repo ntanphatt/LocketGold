@@ -379,6 +379,12 @@ if (ua.includes("Locket")) {
         ]),
         overlay_items: JSON.stringify([
             {
+                section: "🎨 Locket Gold",
+                items: [
+                    { overlay_id: "caption:locket_gold_ntp", source: "remote", caption: { background: { colors: ["#FFD700", "#DAA520"] }, icon: { data: "💛", type: "emoji" }, max_lines: 1, text: "Locket Gold by Nguyễn Tấn Phát", localized_text: { en: "Locket Gold by Nguyễn Tấn Phát", vn: "Locket Gold by Nguyễn Tấn Phát" }, text_color: "#FFFFFF", type: "static_content" } },
+                    ]
+            },
+            {
                 section: "🎨 General",
                 items: [
                     { overlay_id: "caption:standard", source: "local", caption: { type: "standard" } },
